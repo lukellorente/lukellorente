@@ -24,7 +24,7 @@ $ cat about.txt
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  👤  Luke Marten Llorente                               │
+│  👤  Luke Marten Llorente                       │
 │  📚  Estudiante de DAW                          │
 │  🔧  Java · JavaScript · HTML · PHP · Python    │
 │  💀  Experimentador                             │
